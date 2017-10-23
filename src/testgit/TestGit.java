@@ -18,6 +18,7 @@ public class TestGit {
         // TODO code application logic here
         System.out.println("Wersja 0.0.1");
         System.out.println("Wersja 0.0.2");
+        System.out.println("Wersja 0.0.3");
     }
     
 }
