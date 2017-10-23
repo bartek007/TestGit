@@ -21,6 +21,11 @@ public class TestGit {
         System.out.println("Wersja 0.0.3");
         System.out.println("Wersja 0.0.4");
         System.out.println("Wersja 0.0.5");
+        System.out.println("Relase 0.1");
+        System.out.println("Wersja 0.1.1");
+        System.out.println("Wersja 0.1.2");
+        System.out.println("Wersja 0.1.2a");
+        System.out.println("Wersja 0.1.2b");
     }
     
 }
